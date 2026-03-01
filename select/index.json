@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "春となり",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-03-01T08:29:47.397559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春となり",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_春となり_あたらよ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春となり",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_春となり_あたらよ.txt"
+    }
+  ]
+}
